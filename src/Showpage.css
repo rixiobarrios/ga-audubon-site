@@ -1,0 +1,25 @@
+.button {
+  background-color: #444444;
+  justify-content: center;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+p {
+  justify-content: center;
+}
+
+div {
+  justify-content: center;
+}
+
+img {
+  justify-content: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  justify-content: center;
+}
